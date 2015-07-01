@@ -3,3 +3,8 @@ when would you want to create a remote repository rather than keeping all your w
 
   Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   Puede ser cambiado por alguien mas
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: clone de github a github
+Clone: clona de github a local o de local a local
+Branches: crea un camino separado
