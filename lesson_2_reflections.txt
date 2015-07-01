@@ -3,3 +3,18 @@ cuando se inicia un repositorio, no se crea ningun commit, se necesita para come
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area es como una carpeta previa que será utilizada para crear un commit, el working directory es la carpeta fisica en la que estoy trabajando. talvez ofrezca el quitar archivos tambien
+
+How can you use the staging area to make sure you have one commit per logical change?
+utilizando alguna variante del commando diff 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+se pueden utilizar para probar nuevas funcionalidades sin afectar el proyecto principal
+
+How do the diagrams help you visualize the branch structure?
+De mejor forma que con el log
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+permite juntar los dos branches en uno nuevo
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+aun no queda bien entendido.
